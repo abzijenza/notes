@@ -44,6 +44,12 @@ KEYWORDS (Meanings):
 --- Bluestacks ---
 1 - Shturaku Aroma / Lost aroma [Kitani Sai]
 2 - Sweet pitfall / Joshi ana [//]
+3 - Finder [Gentsuki]
+4 - Coffee break [Syoukaki]
+5 - Shower room [//]
+6 - Aijou cherish [//]
+7 - Dishonest but lovely / Sunao janai kedo itooshii [//]
+8 - dopamint [//]
 
 --- pd ---
 1 - Maria's desire / Arakawa under the bridge [Shunjou Shuusuke]
