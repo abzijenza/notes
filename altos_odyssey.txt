@@ -1,7 +1,7 @@
-KEYWORDS (Meanings):
-/ (Forward slash - Alternative name)
-[] (Brackets - Author's name)
-// (Double forward slash - Same as last entry)
+KEYWORDS (Name - Meanings):
+    / (Forward slash - Alternative name)
+    [] (Brackets - Author's name)
+    // (Double forward slash - Same as last entry)
 
 --- Sites ---
 1 - nhentai
@@ -90,6 +90,7 @@ KEYWORDS (Meanings):
 --- Multi work ---
 1 - Yukemuri harem monogatari [Tachibana Omina]
 2 - Tales of a harem in another world [//]
+3 - School of the seven sisters [Akatsuki Myuuto]
 
 --- pd ---
 1 - Maria's desire / Arakawa under the bridge [Shunjou Shuusuke]
