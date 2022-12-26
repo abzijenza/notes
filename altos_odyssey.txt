@@ -103,7 +103,10 @@ KEYWORDS (Name - Meanings):
 59 - I want my reward [Benimura Karu]
 60 - H. (kimetsu no yaiba) [Yurayura (hiro)]
 61 - Kazoku / Family [MItarashi Kousei]
-
+62 - Rikujou kanojo wa cool tokidoki dere / My track and field girlfriend is cool and sometimes hot [Nozawa Yukiko]
+63 - Shinmurou kitan / Mysthaven [Takasugi Kou]
+64 - Kirisu sensei wa gaman ga dekinai (boku tachi wa benkyou ga dekinai) [Yahiro Pochi]
+65 - Oba to shukubo / Aunt and graceful mother [Bouningen]
 
 --- Multi work ---
 1 - Yukemuri harem monogatari [Tachibana Omina]
