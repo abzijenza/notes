@@ -18,7 +18,7 @@ KEYWORDS (Name - Meanings):
 1 - Xter
 2 - Hachimitsu
 3 - Ishigaki takashi
-4 - Gentsuki
+4 - Gentsuk
 5 - Gonza
 5 - Gustav
 6 - Ringoya
@@ -107,6 +107,14 @@ KEYWORDS (Name - Meanings):
 63 - Shinmurou kitan / Mysthaven [Takasugi Kou]
 64 - Kirisu sensei wa gaman ga dekinai (boku tachi wa benkyou ga dekinai) [Yahiro Pochi]
 65 - Oba to shukubo / Aunt and graceful mother [Bouningen]
+66 - Gokubuto Insert [Sabashi Renya]
+67 - P5 harlem / Harem Futaba Editon [Tachibana Omina]
+68 - Suki araba kareshi no seiheki o yugametai gaman genkai icha love onsen ryokou [Meeko]
+69 - My mom my love 5 [Siberian Hahasky]
+70 - Boku no mamakatsu / My sugar mama [Azukiko]
+71 - Wa-chan sunao ni naru hon [Fumi Miyabi]
+72 - Haruko-san no naka / Inside Haruko-san [Minato Fumi]
+73 - Fuuka special edition [Seo Kouji]
 
 --- Multi work ---
 1 - Yukemuri harem monogatari [Tachibana Omina]
