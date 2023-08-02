@@ -15,6 +15,7 @@
 - Persona 5 Royal
 - Max Payne 3
 - The Pathless
+- The Wolf Among Us
 
 ### Unnamed-1
 - Inside
@@ -31,8 +32,8 @@
 - Hyper Light Drifter
 - Sea of Stars
 - Noita
+- Crosscode
 - Inertial Drift
-- The Wolf Among Us
 - Risk of Rain
 
 ### Top-Down (Horizontal)
@@ -49,7 +50,6 @@
 - It Takes Two
 - Castle Crashers
 - The Escapists 2
-- Crosscode
 - Monaco: What's yours is mine
 - Unravel Two
 - Broforce
