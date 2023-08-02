@@ -30,14 +30,17 @@
 - Hyper Light Drifter
 - Sea of Stars
 - Noita
-- Jagged Alliance 3
-- Pillars of Eternity 2: Deadfire
-- ShowGunners
 - Inertial Drift
-- Tyranny
-- Dysco Elysium
 - The Wolf Among Us
 - Risk of Rain
+
+### Top-Down (Horizontal)
+- Wasteland 3
+- Disco Elysium - The Final Cut
+- Jagged Alliance 3
+- ShowGunners
+- Pillars of Eternity 2: Deadfire
+- Tyranny
 
 ### CO-OP
 - Towerfall Ascension (Local)
