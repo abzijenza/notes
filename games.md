@@ -1,82 +1,84 @@
 ### 3D
-- Uncharted 4: A Thief's End / The Lost Legacy
-- The Last of Us Part 1
-- Mafia Definitive Edition
-- Mad Max
-- Just Cause 4
-- Hitman World of Assassination
-- Shadow of The Tomb Raider
-- Metro Exodus
-- Dishonored Definitive Edition
-- Dishonored 2
-- Detroit Become Human
-- CoD Black Ops Cold War
-- Kena Bridge of Spirirts
-- Persona 5 Royal
-- Max Payne 3
-- The Pathless
-- The Wolf Among Us
+1.  Uncharted 4: A Thief's End / The Lost Legacy
+1.  The Last of Us Part 1
+1.  Mafia Definitive Edition
+1.  Mad Max
+1.  Just Cause 4
+1.  Hitman World of Assassination
+1.  Shadow of The Tomb Raider
+1.  Metro Exodus
+1.  Dishonored Definitive Edition
+1.  Dishonored 2
+1.  Detroit Become Human
+1.  CoD Black Ops Cold War
+1.  Kena Bridge of Spirirts
+1.  Persona 5 Royal
+1.  Baldur's Gate 3
+1.  Max Payne 3
+1.  The Pathless
+1.  The Wolf Among Us
 
 ### Unnamed-1
-- Inside
-- Far: Lone Sail
-- Far: Changing Tides [gdrive download](https://drive.google.com/file/d/1_JfMKmn10j4tucgHYUIirgGmkvIhVZp1/view?usp=sharing)
-- Little Nightmares 1
-- Little Nightmares 2
-- Bramble: The Mountain King
-- Oxenfree
-- Into The Breach
-- Katana Zero
-- Mark of The Ninja
-- Hollow Knight
-- Hyper Light Drifter
-- Sea of Stars
-- Noita
-- Crosscode
-- Inertial Drift
-- Risk of Rain
+1.  Inside
+1.  Far: Lone Sail
+1.  Far: Changing Tides [gdrive download](https://drive.google.com/file/d/1_JfMKmn10j4tucgHYUIirgGmkvIhVZp1/view?usp=sharing)
+1.  Little Nightmares 1
+1.  Little Nightmares 2
+1.  Bramble: The Mountain King
+1.  Oxenfree
+1.  Into The Breach
+1.  Katana Zero
+1.  Mark of The Ninja
+1.  Hollow Knight
+1.  Hyper Light Drifter
+1.  Sea of Stars
+1.  Noita
+1.  Crosscode
+1.  Inertial Drift
+1.  Risk of Rain
 
 ### Top-Down (Horizontal)
-- Wasteland 3
-- Disco Elysium - The Final Cut
-- Jagged Alliance 3
-- ShowGunners
-- Pillars of Eternity 2: Deadfire
-- Tyranny
-- Death's Door
+1.  Wasteland 3
+1.  Disco Elysium - The Final Cut
+1.  Jagged Alliance 3
+1.  ShowGunners
+1.  Pillars of Eternity 2: Deadfire
+1.  Tyranny
+1.  Death's Door
 
 ### CO-OP
-- Towerfall Ascension (Local)
-- It Takes Two
-- Castle Crashers
-- The Escapists 2
-- Monaco: What's yours is mine
-- Unravel Two
-- Broforce
-- The Expendabros
-- Pummel Party
-- Fullmetal Furies
-- Rogue Heroes: Ruins of Tasos
-- Don't Starve Together
-- Kingdom Two Crowns
-- Ember Knights
-- Sackboy: A Big Adventure
-- The Ascent
-- The Walking Dead: Betrayal
+1.  Towerfall Ascension (Local)
+1.  It Takes Two
+1.  Castle Crashers
+1.  The Escapists 2
+1.  Monaco: What's yours is mine
+1.  Unravel Two
+1.  Broforce
+1.  The Expendabros
+1.  Pummel Party
+1.  Fullmetal Furies
+1.  Rogue Heroes: Ruins of Tasos
+1.  SpeedRunners
+1.  Don't Starve Together
+1.  Kingdom Two Crowns
+1.  Ember Knights
+1.  Sackboy: A Big Adventure
+1.  The Ascent
+1.  The Walking Dead: Betrayal
 
 
 ### VNs
-- Raging Loop
-- Doki Doki Literature Club
+1.  Raging Loop
+1.  Doki Doki Literature Club
 
 
 ### Peripherals:
-- Gigabyte GC-WB867D-I PCIe x1 802.11a/b/g/n/ac Wi-Fi Adapter
-- Asus PCE-AC55BT B1 PCIe x1 802.11a/b/g/n/ac Wi-Fi Adapter
+1.  Gigabyte GC-WB867D-I PCIe x1 802.11a/b/g/n/ac Wi-Fi Adapter
+1.  Asus PCE-AC55BT B1 PCIe x1 802.11a/b/g/n/ac Wi-Fi Adapter
 
 ### Mouses:
-- Razer Viper Mini
-- Logitech g203
+1.  Razer Viper Mini
+1.  Logitech g203
 
 
 
