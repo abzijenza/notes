@@ -45,6 +45,7 @@
 1.  Pillars of Eternity 2: Deadfire
 1.  Tyranny
 1.  Death's Door
+1.  Spellforce 3 (series)
 
 ### CO-OP
 1.  Towerfall Ascension (Local)
@@ -66,11 +67,9 @@
 1.  The Ascent
 1.  The Walking Dead: Betrayal
 
-
 ### VNs
 1.  Raging Loop
 1.  Doki Doki Literature Club
-
 
 ### Peripherals:
 1.  Gigabyte GC-WB867D-I PCIe x1 802.11a/b/g/n/ac Wi-Fi Adapter
