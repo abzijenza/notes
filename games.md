@@ -18,7 +18,7 @@
 1.  The Pathless
 1.  The Wolf Among Us
 
-### Unnamed-1
+### Side-View
 1.  Inside
 1.  Far: Lone Sail
 1.  Far: Changing Tides [gdrive download](https://drive.google.com/file/d/1_JfMKmn10j4tucgHYUIirgGmkvIhVZp1/view?usp=sharing)
@@ -26,16 +26,12 @@
 1.  Little Nightmares 2
 1.  Bramble: The Mountain King
 1.  Oxenfree
-1.  Into The Breach
+1.  Oxenfree 2
 1.  Katana Zero
-1.  Mark of The Ninja
 1.  Hollow Knight
-1.  Hyper Light Drifter
-1.  Sea of Stars
 1.  Noita
-1.  Crosscode
-1.  Inertial Drift
 1.  Risk of Rain
+1.  Mark of The Ninja
 
 ### Top-Down (Horizontal)
 1.  Wasteland 3
@@ -46,6 +42,14 @@
 1.  Tyranny
 1.  Death's Door
 1.  Spellforce 3 (series)
+
+### Misc
+1.  Octopath Traveler 2
+1.  Sea of Stars
+1.  Into The Breach
+1.  Hyper Light Drifter
+1.  Crosscode
+1.  Inertial Drift
 
 ### CO-OP
 1.  Towerfall Ascension (Local)
