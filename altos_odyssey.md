@@ -42,79 +42,99 @@ KEYWORDS (Name - Meanings):
 
 
 ### Bluestacks
-1. Shturaku Aroma / Lost aroma [Kitani Sai]
-1. Sweet pitfall / Joshi ana [//]
-1. Finder [Gentsuki]
-1. Coffee break [Syoukaki]
-1. Shower room [//]
-1. Aijou cherish [//]
-1. Dishonest but lovely / Sunao janai kedo itooshii [//]
-1. dopamint [//]
-1. Natsu-jiru / Ase ni mamirete gucchagucha [Sena Youtarou]
-1. Let me bark for you / Boku wa anata ni wan to naku [Ishigaki Takashi]
-1. Idol no care o suru no mo shigoto no uchi desu kara [//]
-1. Kanomama [Takayama Chihiro]
-1. Student counseling / Kyouikuteki shidou [//]
-1. Shinchousa 40cm, kyou mo omocha ni saretemasu Dekkai JK no linari sex [Hachimitsu]
-1. I want to do sexy things with my tall yonger cousin / Choushin itoko to ecchii koto shiyo [//]
-1. Mikonjo no shounengari [Tsusauto]
-1. Shuumatsu dakara ippai ichaicha shi yo [Saemon]
-1. Shizuku-san wa ore no omoibito / My neighbor shizuka-san, my fondest desire [//]
-1. Suki araba kareshi no seiheki o yugametai [Meeko]
-1. Sei no kenryoku / The power of sex [Tomohiro Kai]
-1. Moteamashi zuma [Tanaka Nanataka]
-1. Hunting [Touma Itsuki]
-1. Oba-chan no waki ase to etc / Auntie's armpits, sweat, etc [Emori Uki]
-1. Okatai onna to iwanaide / Don't call me an old maid [Herio]
-1. Kaichou to fukukaichou no fujun na otsukiai [Nagashiro Rouge]
-1. Otouto de asobou / Playing with my little brother [Yanagawa Rio]
-1. Shotaiken wa tomodachi no mama to / HIs first time was with his friend's mother [//]
-1. Tsundere musume VS doutei M shounen / Awkward girl VS virginal masochist boy [//]
-1. Kinbaku choukyou shounen 4P oyako donburi / Bondage training boys 4P mother daughter donburi [//]
-1. Obsession [//]
-1. Yokkyuu fuman na danchizuma wa ikenai kairaku ni oboreru 13 [//]
-1. Yokkyuu fuman na danchizuma wa ikenai kairaku ni oboreru 3 [//]
-1. Hotetta karada o hitorijime [Sabashi Renya]
-1. Hokenshitsu no sagara sensei [//]
-1. chijin tsuma ga tomari ni kita kekka [Namaribou Nayonayo]
-1. Yome nusumi, mae mo ushiro mo [//]
-1. Abunai hokenshitsu [//]
-1. Tomodachi no gibo to ane ni yuuwaku sareru hanashi / A tale of the temptation of my friend's stepmom and sister [//]
-1. Tomodachi no gibo to ane ni yuuwaku sareru hanashi kouhen / A tale of the temptation of my friend's stepmom and sister sequel [//]
-1. Ichizu na toriko / A earnest captive [Shunjou Shuusuke]
-1. Onegai, sukoshi yasumasete... Karada torokeru sex no ato ni [//]
-1. Yoiko no gohoubi / Prize for good boy [Unagimaru]
-1. Okaa-san to nenne / Bedtime with mom [//]
-1. Daisuki! onii-sama [//]
-1. To the flower garden [Asagi Ryu]
-1. Orihime zenpen / Orihime first part [//]
-1. Cafe affair [Okumoto Yuta/Yuuta]
-1. My childhood friend is strong part 1 [//]
-1. Secret hotel, revealing visit [//]
-1. Torokeru gohoubi / Melty reward [Mikemono Yuu]
-1. Mayoiga no onee-san sono 5 [//]
-1. Boku nerai no oneee-san [//]
-1. Taiho shichauno / You're under arrest [Tsurui]
-1. Shinkansen de nani shiteru [Tamagou]
-1. Dekiwaku destination / destination temptation [Monorino]
-1. Boku no daisuki na kaa-san to omou zonbun sex dekiru hi [Higefurai]
-1. Onegai! onigami-sama / Please! fearful god [Obmas]
-1. Haha no shinyuu boku no aijin / My mom's best friend is my lover [Hatakeyama Tohya]
-1. I want my reward [Benimura Karu]
-1. H. (kimetsu no yaiba) [Yurayura (hiro)]
-1. Kazoku / Family [MItarashi Kousei]
-1. Rikujou kanojo wa cool tokidoki dere / My track and field girlfriend is cool and sometimes hot [Nozawa Yukiko]
-1. Shinmurou kitan / Mysthaven [Takasugi Kou]
-1. Kirisu sensei wa gaman ga dekinai (boku tachi wa benkyou ga dekinai) [Yahiro Pochi]
-1. Oba to shukubo / Aunt and graceful mother [Bouningen]
-1. Gokubuto Insert [Sabashi Renya]
-1. P5 harlem / Harem Futaba Editon [Tachibana Omina]
-1. Suki araba kareshi no seiheki o yugametai gaman genkai icha love onsen ryokou [Meeko]
-1. My mom my love 5 [Siberian Hahasky]
-1. Boku no mamakatsu / My sugar mama [Azukiko]
-1. Wa-chan sunao ni naru hon [Fumi Miyabi]
-1. Haruko-san no naka / Inside Haruko-san [Minato Fumi]
-1. Fuuka special edition [Seo Kouji]
+-   Kitani Sai:
+    1. Shturaku Aroma / Lost aroma
+    1. Sweet pitfall / Joshi ana
+-   Gentsuki:
+    1. Finder:
+-   Syoukaki:
+    1. Coffee break
+    1. Shower room
+    1. Aijou cherish
+    1. Dishonest but lovely / Sunao janai kedo itooshii
+    1. dopamint
+-   Sena Youtarou:
+    1. Natsu-jiru / Ase ni mamirete gucchagucha
+-   Ishigaki Takashi:
+    1. Let me bark for you / Boku wa anata ni wan to naku
+    1. Idol no care o suru no mo shigoto no uchi desu kara
+-   Takayama Chihiro:
+    1. Kanomama
+    1. Student counseling / Kyouikuteki shidou [//]
+-   Hachimitsu:
+    1. Shinchousa 40cm, kyou mo omocha ni saretemasu Dekkai JK no linari sex
+    1. I want to do sexy things with my tall yonger cousin / Choushin itoko to ecchii koto shiyo
+-   Tsusauto:
+    1. Mikonjo no shounengari [Tsusauto]
+-   Saemon:
+    1. Shuumatsu dakara ippai ichaicha shi yo [Saemon]
+    1. Shizuku-san wa ore no omoibito / My neighbor shizuka-san, my fondest desire [//]
+-   Meeko:
+    1. Suki araba kareshi no seiheki o yugametai
+    1. Suki araba kareshi no seiheki o yugametai gaman genkai icha love onsen ryokou
+-   Tomohiro Kai:
+    1. Sei no kenryoku / The power of sex [Tomohiro Kai]
+-   Yanagawa Rio:
+    1. Otouto de asobou / Playing with my little brother [Yanagawa Rio]
+    1. Shotaiken wa tomodachi no mama to / HIs first time was with his friend's mother [//]
+    1. Tsundere musume VS doutei M shounen / Awkward girl VS virginal masochist boy [//]
+    1. Kinbaku choukyou shounen 4P oyako donburi / Bondage training boys 4P mother daughter donburi [//]
+    1. Obsession [//]
+    1. Yokkyuu fuman na danchizuma wa ikenai kairaku ni oboreru 13 [//]
+    1. Yokkyuu fuman na danchizuma wa ikenai kairaku ni oboreru 3 [//]
+-   Sabashi Renya:
+    1. Hotetta karada o hitorijime
+    1. Hokenshitsu no sagara sensei
+    1. Gokubuto Insert
+-   Namaribou Nayonayo:
+    1. chijin tsuma ga tomari ni kita kekka
+    1. Yome nusumi, mae mo ushiro mo
+    1. Abunai hokenshitsu
+    1. Tomodachi no gibo to ane ni yuuwaku sareru hanashi / A tale of the temptation of my friend's stepmom and sister
+    1. Tomodachi no gibo to ane ni yuuwaku sareru hanashi kouhen / A tale of the temptation of my friend's stepmom and sister sequel
+-   Shunjou Shuusuke:
+    1. Ichizu na toriko / A earnest captive
+    1. Onegai, sukoshi yasumasete... Karada torokeru sex no ato ni
+-   Unagimaru:
+    1. Yoiko no gohoubi / Prize for good boy
+    1. Okaa-san to nenne / Bedtime with mom
+    1. Daisuki! onii-sama
+-   Asagi Ryu:
+    1. To the flower garden
+    1. Orihime zenpen / Orihime first part
+-   Okumoto Yuta/Yuuta:
+    1. Cafe affair
+    1. My childhood friend is strong part 1
+    1. Secret hotel, revealing visit
+-   Mikemono Yuu:
+    1. Torokeru gohoubi / Melty reward
+    1. Mayoiga no onee-san sono 5
+    1. Boku nerai no oneee-san
+-   Singles:
+    1. Moteamashi zuma [Tanaka Nanataka]
+    1. Hunting [Touma Itsuki]
+    1. Oba-chan no waki ase to etc / Auntie's armpits, sweat, etc [Emori Uki]
+    1. Okatai onna to iwanaide / Don't call me an old maid [Herio]
+    1. Kaichou to fukukaichou no fujun na otsukiai [Nagashiro Rouge]
+    1. Taiho shichauno / You're under arrest [Tsurui]
+    1. Shinkansen de nani shiteru [Tamagou]
+    1. Dekiwaku destination / destination temptation [Monorino]
+    1. Boku no daisuki na kaa-san to omou zonbun sex dekiru hi [Higefurai]
+    1. Onegai! onigami-sama / Please! fearful god [Obmas]
+    1. Haha no shinyuu boku no aijin / My mom's best friend is my lover [Hatakeyama Tohya]
+    1. I want my reward [Benimura Karu]
+    1. H. (kimetsu no yaiba) [Yurayura (hiro)]
+    1. Kazoku / Family [MItarashi Kousei]
+    1. Rikujou kanojo wa cool tokidoki dere / My track and field girlfriend is cool and sometimes hot [Nozawa Yukiko]
+    1. Shinmurou kitan / Mysthaven [Takasugi Kou]
+    1. Kirisu sensei wa gaman ga dekinai (boku tachi wa benkyou ga dekinai) [Yahiro Pochi]
+    1. Oba to shukubo / Aunt and graceful mother [Bouningen]
+    1. P5 harlem / Harem Futaba Editon [Tachibana Omina]
+    1. My mom my love 5 [Siberian Hahasky]
+    1. Boku no mamakatsu / My sugar mama [Azukiko]
+    1. Wa-chan sunao ni naru hon [Fumi Miyabi]
+    1. Haruko-san no naka / Inside Haruko-san [Minato Fumi]
+    1. Fuuka special edition [Seo Kouji]
 
 ### Multi work
 1. Yukemuri harem monogatari [Tachibana Omina]
