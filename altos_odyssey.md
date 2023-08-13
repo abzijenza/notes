@@ -1,8 +1,3 @@
-KEYWORDS (Name - Meanings):
-    / (Forward slash - Alternative name)
-    [] (Brackets - Author's name)
-    // (Double forward slash - Same as last entry)
-
 ### Sites
 1. nhentai
 1. tsumino
@@ -170,6 +165,10 @@ KEYWORDS (Name - Meanings):
     1. Yuagari oppai, onna kyoushi to amai wana
     1. Aniyome aokan ANEcdote
     1. Yuki no yoru, katawara no hitozuma wa atsui toiki o furuwasete
+-   Oouso:
+    1. Ashikokism / Urophilia
+    1. Pet or slave / Meike misaki no baai
+    1. Pet or slave koyomika's family
 -   Mikemono Yuu:
     1. Do S nicomi / Super sonico
     1. Takao onee-san to nyuukyo
@@ -186,12 +185,9 @@ KEYWORDS (Name - Meanings):
     1. Seaside Hunting / Bitchobitch [Nasipasuta]
     1. Oba-chan no waki to / Auntie's armpits and [Emori Uki]
     1. MUV de LUV 2 [Ishigaki Takashi]
-    1. Ashikokism / Urophilia [Oouso]
-    1. Pet or slave / Meike misaki no baai [//]
-    1. Pet or slave koyomika's family [//]
     1. Toilet boy [Yanagawa Rio]
     1. Megamitachi no complex [//]
-    1. Splash [Unknown] Source: hbrowse/hentaifox
+    1. Splash - key [Unknown] Source: hbrowse/hentaifox
     1. Okki na kanojo ni amaetai / I want to be pamepered by a girl of generous girth [Higashino Mikan]
     1. CL-orz 05 [Cle Masahiro]
     1. Lemon yellow [Inato Serere]
