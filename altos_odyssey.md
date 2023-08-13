@@ -41,12 +41,12 @@ KEYWORDS (Name - Meanings):
 1. Yanagawa Rio
 
 
-### Bluestacks
+### Bluestacks - 74
 -   Kitani Sai:
     1. Shturaku Aroma / Lost aroma
     1. Sweet pitfall / Joshi ana
 -   Gentsuki:
-    1. Finder:
+    1. Finder
 -   Syoukaki:
     1. Coffee break
     1. Shower room
@@ -60,28 +60,28 @@ KEYWORDS (Name - Meanings):
     1. Idol no care o suru no mo shigoto no uchi desu kara
 -   Takayama Chihiro:
     1. Kanomama
-    1. Student counseling / Kyouikuteki shidou [//]
+    1. Student counseling / Kyouikuteki shidou
 -   Hachimitsu:
     1. Shinchousa 40cm, kyou mo omocha ni saretemasu Dekkai JK no linari sex
     1. I want to do sexy things with my tall yonger cousin / Choushin itoko to ecchii koto shiyo
 -   Tsusauto:
     1. Mikonjo no shounengari [Tsusauto]
 -   Saemon:
-    1. Shuumatsu dakara ippai ichaicha shi yo [Saemon]
-    1. Shizuku-san wa ore no omoibito / My neighbor shizuka-san, my fondest desire [//]
+    1. Shuumatsu dakara ippai ichaicha shi yo
+    1. Shizuku-san wa ore no omoibito / My neighbor shizuka-san, my fondest desire
 -   Meeko:
     1. Suki araba kareshi no seiheki o yugametai
     1. Suki araba kareshi no seiheki o yugametai gaman genkai icha love onsen ryokou
 -   Tomohiro Kai:
     1. Sei no kenryoku / The power of sex [Tomohiro Kai]
 -   Yanagawa Rio:
-    1. Otouto de asobou / Playing with my little brother [Yanagawa Rio]
-    1. Shotaiken wa tomodachi no mama to / HIs first time was with his friend's mother [//]
-    1. Tsundere musume VS doutei M shounen / Awkward girl VS virginal masochist boy [//]
-    1. Kinbaku choukyou shounen 4P oyako donburi / Bondage training boys 4P mother daughter donburi [//]
-    1. Obsession [//]
-    1. Yokkyuu fuman na danchizuma wa ikenai kairaku ni oboreru 13 [//]
-    1. Yokkyuu fuman na danchizuma wa ikenai kairaku ni oboreru 3 [//]
+    1. Otouto de asobou / Playing with my little brother
+    1. Shotaiken wa tomodachi no mama to / HIs first time was with his friend's mother
+    1. Tsundere musume VS doutei M shounen / Awkward girl VS virginal masochist boy
+    1. Kinbaku choukyou shounen 4P oyako donburi / Bondage training boys 4P mother daughter donburi
+    1. Obsession
+    1. Yokkyuu fuman na danchizuma wa ikenai kairaku ni oboreru 13
+    1. Yokkyuu fuman na danchizuma wa ikenai kairaku ni oboreru 3
 -   Sabashi Renya:
     1. Hotetta karada o hitorijime
     1. Hokenshitsu no sagara sensei
@@ -134,32 +134,45 @@ KEYWORDS (Name - Meanings):
     1. Boku no mamakatsu / My sugar mama [Azukiko]
     1. Wa-chan sunao ni naru hon [Fumi Miyabi]
     1. Haruko-san no naka / Inside Haruko-san [Minato Fumi]
-    1. Fuuka special edition [Seo Kouji]
+    1. Let's Gyaku Rape / Let's Reverse Rape [Kuguri Oimo]
+    1. M & A [Emua]
 
 ### Multi work
-1. Yukemuri harem monogatari [Tachibana Omina]
-1. Tales of a harem in another world [//]
-1. School of the seven sisters [Akatsuki Myuuto]
-1. Akiko-san to Issho / together with akiko-san [Mitarashi Kousei]
-1. Imaizumin Chi wa Douyara Gal no Tamariba ni Natteru Rashii [Nori, Gorou]
-1. My sister [XTER]
-1. My mother [//]
-1. Secret of the srine maiden [//]
-1. My sister 2 [//]
-1. My sister 3 [//]
-1. Ore to Nanoha to one room [Ishigaki Takashi]
-1. Ore to NanoFei to one room [//]
-1. Ore to Fate to one room [//]
+-   Tachibana Omina:
+    1. Yukemuri harem monogatari
+    1. Tales of a harem in another world
+-   Xter:
+    1. My sister
+    1. My mother
+    1. Secret of the srine maiden
+    1. My sister 2
+    1. My sister 3
+-   Ishigaki Takashi
+    1. Ore to Nanoha to one room
+    1. Ore to NanoFei to one room
+    1. Ore to Fate to one room
+-   Singles:
+    1. School of the seven sisters [Akatsuki Myuuto]
+    1. Akiko-san to Issho / together with akiko-san [Mitarashi Kousei]
+    1. Imaizumin Chi wa Douyara Gal no Tamariba ni Natteru Rashii [Nori, Gorou]
 
 ### pd
-1. Maria's desire / Arakawa under the bridge [Shunjou Shuusuke]
-1. Oshikko party [Kitani Sai]
-1. Haisetsu x shukujo Oshikko party 2 [//]
-1. Ahhn balance [//]
-1. Ride on you [//]
-1. Angel pain 17 hatsuman [//]
-1. Angel pain 8 a fictitious mind [//]
-1. Angel pain 14 [//] 
+-   Kitani Sai:
+    1. Oshikko party
+    1. Haisetsu x shukujo Oshikko party 2
+    1. Ahhn balance
+    1. Ride on you
+    1. Angel pain 17 hatsuman
+    1. Angel pain 8 a fictitious mind
+    1. Angel pain 14
+-   Namaribou Nayonayo:
+    1. Mura no inshuu de fudeoroshisareta kekka
+    1. Yuagari oppai, onna kyoushi to amai wana
+    1. Aniyome aokan ANEcdote
+    1. Yuki no yoru, katawara no hitozuma wa atsui toiki o furuwasete
+-   Mikemono Yuu:
+    1. Do S nicomi / Super sonico
+    1. Takao onee-san to nyuukyo
 1. Youkoso oshikko club e / Oshikko dechau [Miura Iota]
 1. Kusabi / Atadura / Anegurui [Touma Itsuki]
 1. Honey lounge nibai 2 [Hachimitsu]
@@ -170,8 +183,6 @@ KEYWORDS (Name - Meanings):
 1. Ashikokism / Urophilia [Oouso]
 1. Pet or slave / Meike misaki no baai [//]
 1. Pet or slave koyomika's family [//]
-1. Do S nicomi / Super sonico [Mikemono Yuu]
-1. Takao onee-san to nyuukyo [//]
 1. Toilet boy [Yanagawa Rio]
 1. Megamitachi no complex [//]
 1. Splash [Unknown] Source: hbrowse/hentaifox
@@ -179,20 +190,18 @@ KEYWORDS (Name - Meanings):
 1. CL-orz 05 [Cle Masahiro]
 1. Lemon yellow [Inato Serere]
 1. Piss is love [Takashiro Go-ya]
-1. Mura no inshuu de fudeoroshisareta kekka [Namaribou Nayonayo]
-1. Yuagari oppai, onna kyoushi to amai wana [//]
-1. Aniyome aokan ANEcdote [//]
-1. Yuki no yoru, katawara no hitozuma wa atsui toiki o furuwasete [//]
-1. Francois [Monorino]
-1. Haruka after 6 [Tsurui]
-1. 2D never betrays you [Tokimachi Eisei]
-1. Watashi wa kore de kazoku to nakayoku narimashita [Kimura Neito]
+-   Singles:
+    1. Maria's desire / Arakawa under the bridge [Shunjou Shuusuke]
+    1. Francois [Monorino]
+    1. Haruka after 6 [Tsurui]
+    1. 2D never betrays you [Tokimachi Eisei]
+    1. Watashi wa kore de kazoku to nakayoku narimashita [Kimura Neito]
 
 ### gonza
-1. Boko dake no inbo-tachi / My three horny moms [Gonza]
-1. Nana-san's temptation strategy [//]
-1. Kyuusoku wa hokenshitsu de / Take a break in the infirmary [//]
-1. Mother is a pornstar [//]
-1. Sexy lady bar [gonza]
+1. Boko dake no inbo-tachi / My three horny moms
+1. Nana-san's temptation strategy
+1. Kyuusoku wa hokenshitsu de / Take a break in the infirmary
+1. Mother is a pornstar
+1. Sexy lady bar
 
 
