@@ -151,7 +151,7 @@
     1. Akiko-san to Issho / together with akiko-san [Mitarashi Kousei]
     1. Imaizumin Chi wa Douyara Gal no Tamariba ni Natteru Rashii [Nori, Gorou]
 
-### pd
+### pd - 38
 -   Kitani Sai:
     1. Oshikko party
     1. Haisetsu x shukujo Oshikko party 2
@@ -160,6 +160,7 @@
     1. Angel pain 17 hatsuman
     1. Angel pain 8 a fictitious mind
     1. Angel pain 14
+    1. Joshi Ana
 -   Namaribou Nayonayo:
     1. Mura no inshuu de fudeoroshisareta kekka
     1. Yuagari oppai, onna kyoushi to amai wana
@@ -192,6 +193,8 @@
     1. CL-orz 05 [Cle Masahiro]
     1. Lemon yellow [Inato Serere]
     1. Piss is love [Takashiro Go-ya]
+    1. Call Me Mama and Spoil Me Alot 2 [Yoshiyoshi-ya]
+    1. Kuro Gal-chan SEito wa Choukyou Jouzu / This Dark skinned Gal Student Is Really Good At Training Men [toba yuga]
 
 ### gonza
 1. Boko dake no inbo-tachi / My three horny moms
