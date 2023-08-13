@@ -17,6 +17,7 @@
 1.  Max Payne 3
 1.  The Pathless
 1.  The Wolf Among Us
+1.  Judgement
 
 ### Side-View
 1.  Inside
@@ -29,11 +30,12 @@
 1.  Oxenfree 2
 1.  Katana Zero
 1.  Hollow Knight
+1.  Oxygen Not Included
 1.  Noita
 1.  Risk of Rain
 1.  Mark of The Ninja
 
-### Top-Down (Horizontal)
+### Top-Down
 1.  Wasteland 3
 1.  Disco Elysium - The Final Cut
 1.  Jagged Alliance 3
@@ -42,6 +44,7 @@
 1.  Tyranny
 1.  Death's Door
 1.  Spellforce 3 (series)
+1.  The Hong Kong Massacre
 
 ### Misc
 1.  Octopath Traveler 2
