@@ -44,7 +44,8 @@
 1.  Tyranny
 1.  Death's Door
 1.  Spellforce 3 (series)
-1.  The Hong Kong Massacre
+1.  Pathfinder: Wrath of the Righteous
+1.  The Hong Kong Massacre (Vertical)
 
 ### Misc
 1.  Octopath Traveler 2
