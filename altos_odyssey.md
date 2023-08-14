@@ -1,42 +1,42 @@
 ### Sites
-1. nhentai
-1. tsumino
-1. nana
-1. 8Muses
-1. hbrowse
-1. e-hentai
-1. hentaifox
-1. hentai2read
+1.  nhentai
+1.  tsumino
+1.  nana
+1.  8Muses
+1.  hbrowse
+1.  e-hentai
+1.  hentaifox
+1.  hentai2read
 
 
 ### Authors
-1. Xter
-1. Hachimitsu
-1. Ishigaki takashi
-1. Gentsuk
-1. Gonza
-1. Gustav
-1. Ringoya
-1. Herio
-1. Syoukaki
-1. Okumoto yuuta
-1. Hinazuka Ryo
-1. Napata
-1. Tomohiro Kai
-1. Sena Youtarou
-1. Tsusauto
-1. Shunjou Shuusuke (Maria's Desire, )
-1. Saigado (Evangelion Series, )
-1. Saemon
-1. Sabashi Renya
-1. Mafuyu
-1. Mikemono Yuu
-1. Kurokoshi You
-1. Tamabi
-1. Yanagawa Rio
+1.  Xter
+1.  Hachimitsu
+1.  Ishigaki takashi
+1.  Gentsuk
+1.  Gonza
+1.  Gustav
+1.  Ringoya
+1.  Herio
+1.  Syoukaki
+1.  Okumoto yuuta
+1.  Hinazuka Ryo
+1.  Napata
+1.  Tomohiro Kai
+1.  Sena Youtarou
+1.  Tsusauto
+1.  Shunjou Shuusuke (Maria's Desire, )
+1.  Saigado (Evangelion Series, )
+1.  Saemon
+1.  Sabashi Renya
+1.  Mafuyu
+1.  Mikemono Yuu
+1.  Kurokoshi You
+1.  Tamabi
+1.  Yanagawa Rio
 
 
-### Bluestacks - 75
+### Bluestacks - 81
 -   Kitani Sai:
     1.  Shturaku Aroma / Lost aroma
     1.  Sweet pitfall / Joshi ana
@@ -82,6 +82,12 @@
     1.  Hokenshitsu no sagara sensei
     1.  Gokubuto Insert
     1.  Share House e Youkoso
+    1.  Himegoto x Memories
+    1.  Onna Kyoushi no Fubunritsu
+    1.  Hataraku Kankoshi no Sei Jijou
+    1.  Senpai-tachi to no Gakuen Seikatsu
+    1.  Boku no Hot Spot Ch. 1-3
+    1.  Mistudaku Kanojo
 -   Namaribou Nayonayo:
     1.  chijin tsuma ga tomari ni kita kekka
     1.  Yome nusumi, mae mo ushiro mo
