@@ -15,9 +15,10 @@
 1.  Persona 5 Royal
 1.  Baldur's Gate 3
 1.  Max Payne 3
+1.  Judgement
 1.  The Pathless
 1.  The Wolf Among Us
-1.  Judgement
+1.  The Walking Dead: The Telltale
 
 ### Side-View
 1.  Inside
@@ -78,6 +79,8 @@
 ### VNs
 1.  Raging Loop
 1.  Doki Doki Literature Club
+1.  AI: The Somnium Files
+1.  Zero Escape: The Nonary Games
 
 ### Peripherals:
 1.  Gigabyte GC-WB867D-I PCIe x1 802.11a/b/g/n/ac Wi-Fi Adapter
