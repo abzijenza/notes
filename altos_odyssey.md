@@ -36,7 +36,7 @@
 1.  Yanagawa Rio
 
 
-### Bluestacks - 81
+### Bluestacks - 83
 -   Kitani Sai:
     1.  Shturaku Aroma / Lost aroma
     1.  Sweet pitfall / Joshi ana
@@ -88,6 +88,8 @@
     1.  Senpai-tachi to no Gakuen Seikatsu
     1.  Boku no Hot Spot Ch. 1-3
     1.  Mistudaku Kanojo
+    1.  Love Infusion
+    1.  Hajirai Body
 -   Namaribou Nayonayo:
     1.  chijin tsuma ga tomari ni kita kekka
     1.  Yome nusumi, mae mo ushiro mo
