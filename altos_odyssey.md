@@ -7,6 +7,10 @@
 1.  e-hentai
 1.  hentaifox
 1.  hentai2read
+1.  hentai20
+1.  HM2D
+1.  hManhwa
+1.  Bato.to
 
 
 ### Authors
@@ -36,7 +40,7 @@
 1.  Yanagawa Rio
 
 
-### Bluestacks - 83
+### Bluestacks - 85
 -   Kitani Sai:
     1.  Shturaku Aroma / Lost aroma
     1.  Sweet pitfall / Joshi ana
@@ -114,6 +118,9 @@
     1.  Torokeru gohoubi / Melty reward
     1.  Mayoiga no onee-san sono 5
     1.  Boku nerai no oneee-san
+-   RegDic:
+    1.  You Lose All Inhibitions When Traveling
+    1.  Animal-Eared Fortune Teller
 -   Singles:
     1.  Moteamashi zuma [Tanaka Nanataka]
     1.  Hunting [Touma Itsuki]
