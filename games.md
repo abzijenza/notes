@@ -13,7 +13,6 @@
 1.  CoD Black Ops Cold War
 1.  Kena Bridge of Spirirts
 1.  Persona 5 Royal
-1.  Baldur's Gate 3
 1.  Max Payne 3
 1.  Judgement
 1.  The Pathless
@@ -37,6 +36,7 @@
 1.  Mark of The Ninja
 
 ### Top-Down
+1.  Baldur's Gate 3
 1.  Wasteland 3
 1.  Disco Elysium - The Final Cut
 1.  Jagged Alliance 3
@@ -46,6 +46,9 @@
 1.  Death's Door
 1.  Spellforce 3 (series)
 1.  Pathfinder: Wrath of the Righteous
+1.  Shadowrun Returns
+1.  Shadowrun: Dragonfall
+1.  Shadowrun: Honk Kong
 1.  The Hong Kong Massacre (Vertical)
 
 ### Misc
@@ -54,6 +57,7 @@
 1.  Into The Breach
 1.  Hyper Light Drifter
 1.  Crosscode
+1.  Black Skylands
 1.  Inertial Drift
 
 ### CO-OP
