@@ -15,6 +15,7 @@
 1.  Persona 5 Royal
 1.  Max Payne 3
 1.  Judgement
+1.  What Remains of Edith Finch
 1.  The Pathless
 1.  The Wolf Among Us
 1.  The Walking Dead: The Telltale
