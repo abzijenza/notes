@@ -40,7 +40,7 @@
 1.  Yanagawa Rio
 
 
-### Bluestacks - 85
+### Bluestacks - 90
 -   Kitani Sai:
     1.  Shturaku Aroma / Lost aroma
     1.  Sweet pitfall / Joshi ana
@@ -121,6 +121,14 @@
 -   RegDic:
     1.  You Lose All Inhibitions When Traveling
     1.  Animal-Eared Fortune Teller
+-   Kokonoki Nao:
+    1.  To ha Tabun tomodachi no To
+    1.  A is for April
+-   Tachibana Omina:
+    1.  P5 Harlem / Harem Futaba Edition
+    1.  Deatte Harem
+    1.  Boku wa Minna no Kanrinin / I Am Everyone's Landlord
+    1.  Ikinari! Harem Life AFTER / Sudden! Harem Life AFTER Ch. 1-3
 -   Singles:
     1.  Moteamashi zuma [Tanaka Nanataka]
     1.  Hunting [Touma Itsuki]
@@ -140,7 +148,6 @@
     1.  Shinmurou kitan / Mysthaven [Takasugi Kou]
     1.  Kirisu sensei wa gaman ga dekinai (boku tachi wa benkyou ga dekinai) [Yahiro Pochi]
     1.  Oba to shukubo / Aunt and graceful mother [Bouningen]
-    1.  P5 harlem / Harem Futaba Editon [Tachibana Omina]
     1.  My mom my love 5 [Siberian Hahasky]
     1.  Boku no mamakatsu / My sugar mama [Azukiko]
     1.  Wa-chan sunao ni naru hon [Fumi Miyabi]
