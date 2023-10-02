@@ -40,7 +40,7 @@
 1.  Yanagawa Rio
 
 
-### Bluestacks - 90
+### Bluestacks - 92
 -   Kitani Sai:
     1.  Shturaku Aroma / Lost aroma
     1.  Sweet pitfall / Joshi ana
@@ -129,6 +129,9 @@
     1.  Deatte Harem
     1.  Boku wa Minna no Kanrinin / I Am Everyone's Landlord
     1.  Ikinari! Harem Life AFTER / Sudden! Harem Life AFTER Ch. 1-3
+-   Kuguri Oimo:
+    1.  Let's Gyaku Rape / Let's Reverse Rape
+    1.  Kanade ga Mizugi ni Kigaetara
 -   Singles:
     1.  Moteamashi zuma [Tanaka Nanataka]
     1.  Hunting [Touma Itsuki]
@@ -152,8 +155,8 @@
     1.  Boku no mamakatsu / My sugar mama [Azukiko]
     1.  Wa-chan sunao ni naru hon [Fumi Miyabi]
     1.  Haruko-san no naka / Inside Haruko-san [Minato Fumi]
-    1.  Let's Gyaku Rape / Let's Reverse Rape [Kuguri Oimo]
     1.  M & A [Emua]
+    1.  Hohou no Kemono / Lyrical Beast [Hiyoshi Hana]
 
 ### Multi work
 -   Tachibana Omina:
