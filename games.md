@@ -35,6 +35,7 @@
 1.  Noita
 1.  Risk of Rain
 1.  Mark of The Ninja
+1.  Dave The Diver
 
 ### Top-Down
 1.  Baldur's Gate 3
