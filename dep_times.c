@@ -1,4 +1,5 @@
 #include <stdio.h>
+#include <ctype.h>
 
 int abs(int n) { return n < 0 ? -n : n; }
 
@@ -11,7 +12,7 @@ void dep(void) {
     int time = h * 60 + m;
     if (toupper(period) == 'P' && h != 12) time += 720; // Add 12 hours 
 
-    // Departure times
+    // Departure times.
     int d1, d2, d3, d4, d5, d6, d7, d8;
     d1 = abs(480  - time);
     d2 = abs(583  - time);
@@ -36,7 +37,7 @@ void dep(void) {
 }
 
 int main(void) {
-    dep():
+    dep();
     return 0;
 }
 
