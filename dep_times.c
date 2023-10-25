@@ -3,10 +3,14 @@
 int abs(int n) { return n < 0 ? -n : n; }
 
 void dep(void) {
-    printf("Enter a 24-hour time: ");
-    int h, m; scanf("%d :%d", &h, &m);
+    printf("Enter a 12-hour time: ");
+    int h, m; char period;
+    scanf("%d :%d %c", &h, &m, &period);
+
+    // User time in mins
     int time = h * 60 + m;
-    
+    if (toupper(period) == 'P' && h != 12) time += 720; // Add 12 hours 
+
     // Departure times
     int d1, d2, d3, d4, d5, d6, d7, d8;
     d1 = abs(480  - time);
