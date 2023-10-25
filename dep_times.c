@@ -24,7 +24,7 @@ void dep(void) {
     d8 = abs(1305 - time);
 
     printf("Closest departure time is ");
-    if (time < 173)   printf("9:45 PM, arriving at 11:58 PM"); // if < 2:53 AM
+    if (time < 173)   printf("9:45 PM, arriving at 11:58 PM"); // if user time < 2:53 AM ...
     else if (d1 < d2) printf("8:00 AM, arriving at 10:16 AM");
     else if (d2 < d3) printf("9:43 AM, arriving at 11:52 AM");
     else if (d3 < d4) printf("11:19 AM, arriving at 1:31 PM");
