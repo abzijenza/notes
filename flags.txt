@@ -1,5 +1,0 @@
--std=c99
--Wextra
--Wall 
--Wformat=2
--pedantic
