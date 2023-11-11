@@ -54,10 +54,12 @@
 1.  Shadowrun: Honk Kong
 1.  The Hong Kong Massacre (Vertical)
 
+### Pixel Graphics
+1.  Sea of Stars
+
 ### Misc
 1.  Octopath Traveler 2
 1.  Live A Live
-1.  Sea of Stars
 1.  Into The Breach
 1.  Hyper Light Drifter
 1.  Crosscode
