@@ -48,6 +48,7 @@
 1.  Pillars of Eternity 2: Deadfire
 1.  Tyranny
 1.  Death's Door
+1.  Colony Ship: A Post-Earth Role Playing Game
 1.  Spellforce 3 (series)
 1.  Pathfinder: Wrath of the Righteous
 1.  Shadowrun Returns
@@ -57,11 +58,12 @@
 
 ### Pixel Graphics
 1.  Octopath Traveler 2
-1.  Sea of Stars
+1.  Chained Echoes
 1.  Live A Live
 1.  Crosscode
 1.  Black Skylands
 1.  Hyper Light Drifter
+1.  Sea of Stars
 
 ### Misc
 1.  Into The Breach
@@ -79,6 +81,7 @@
 1.  The Expendabros
 1.  Risk of Rain
 1.  Risk of Rain Returns
+1.  Alien Hominid Invasion
 1.  Pummel Party
 1.  Fullmetal Furies
 1.  Rogue Heroes: Ruins of Tasos
@@ -86,6 +89,7 @@
 1.  Don't Starve Together
 1.  Kingdom Two Crowns
 1.  Ember Knights
+1.  Bud Spencer & Terence Hill - Slaps And Beans 2
 1.  Sackboy: A Big Adventure
 1.  The Ascent
 1.  The Walking Dead: Betrayal
