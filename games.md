@@ -35,6 +35,7 @@
 1.  Oxygen Not Included
 1.  Noita
 1.  Risk of Rain
+1.  Risk of Rain Returns
 1.  Mark of The Ninja
 1.  Dave The Diver
 
@@ -76,6 +77,8 @@
 1.  Unravel Two
 1.  Broforce
 1.  The Expendabros
+1.  Risk of Rain
+1.  Risk of Rain Returns
 1.  Pummel Party
 1.  Fullmetal Furies
 1.  Rogue Heroes: Ruins of Tasos
