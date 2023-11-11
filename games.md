@@ -11,6 +11,7 @@
 1.  Dishonored 2
 1.  Detroit Become Human
 1.  CoD Black Ops Cold War
+1.  Spec Ops: The Line
 1.  Kena Bridge of Spirirts
 1.  Persona 5 Royal
 1.  Max Payne 3
