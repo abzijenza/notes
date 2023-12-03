@@ -92,6 +92,7 @@
 1.  Don't Starve Together
 1.  Kingdom Two Crowns
 1.  Ember Knights
+1.  Streets of Rage 4
 1.  Bud Spencer & Terence Hill - Slaps And Beans 2
 1.  Sackboy: A Big Adventure
 1.  The Ascent
