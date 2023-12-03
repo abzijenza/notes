@@ -65,11 +65,13 @@
 1.  Black Skylands
 1.  Hyper Light Drifter
 1.  Sea of Stars
+1.  TRIANGLE STRATEGY
 
 ### Misc
 1.  Into The Breach
 1.  Inertial Drift
 1.  Dredge
+1.  art of rally
 
 ### CO-OP
 1.  Towerfall Ascension (Local)
