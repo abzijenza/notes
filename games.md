@@ -20,6 +20,7 @@
 1.  The Pathless
 1.  The Wolf Among Us
 1.  The Walking Dead: The Telltale
+1.  Stray
 
 ### Side-View
 1.  Inside
