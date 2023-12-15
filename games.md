@@ -11,6 +11,8 @@
 1.  Dishonored 2
 1.  Detroit Become Human
 1.  CoD Black Ops Cold War
+1.  Alan Wake 2
+1.  Sleeping Dogs
 1.  Spec Ops: The Line
 1.  Kena Bridge of Spirirts
 1.  Persona 5 Royal
@@ -99,6 +101,7 @@
 1.  The Walking Dead: Betrayal
 
 ### VNs
+1.  Witch on the Holy Night
 1.  Raging Loop
 1.  Doki Doki Literature Club
 1.  AI: The Somnium Files
