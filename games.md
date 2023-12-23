@@ -5,7 +5,7 @@
 1.  Mad Max
 1.  Just Cause 4
 1.  Hitman World of Assassination
-1.  Shadow of The Tomb Raider
+1.  Shadow of The Tomb Raider: Definitive Edition
 1.  Metro Exodus
 1.  Dishonored Definitive Edition
 1.  Dishonored 2
@@ -103,6 +103,7 @@
 
 ### VNs
 1.  Witch on the Holy Night
+1.  Phoenix Wright: Ace Attorney Trilogy
 1.  Raging Loop
 1.  Doki Doki Literature Club
 1.  AI: The Somnium Files
