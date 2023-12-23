@@ -40,7 +40,7 @@
 1.  Yanagawa Rio
 
 
-### Bluestacks - 92
+### Bluestacks - 91
 -   Kitani Sai:
     1.  Shturaku Aroma / Lost aroma
     1.  Sweet pitfall / Joshi ana
@@ -125,7 +125,6 @@
     1.  To ha Tabun tomodachi no To
     1.  A is for April
 -   Tachibana Omina:
-    1.  P5 Harlem / Harem Futaba Edition
     1.  Deatte Harem
     1.  Boku wa Minna no Kanrinin / I Am Everyone's Landlord
     1.  Ikinari! Harem Life AFTER / Sudden! Harem Life AFTER Ch. 1-3
@@ -173,7 +172,6 @@
     1.  Ore to NanoFei to one room
     1.  Ore to Fate to one room
 -   Singles:
-    1.  School of the seven sisters [Akatsuki Myuuto]
     1.  Akiko-san to Issho / together with akiko-san [Mitarashi Kousei]
     1.  Imaizumin Chi wa Douyara Gal no Tamariba ni Natteru Rashii [Nori, Gorou]
 
