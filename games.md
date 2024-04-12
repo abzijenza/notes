@@ -12,11 +12,14 @@
 1.  Detroit Become Human
 1.  CoD Black Ops Cold War
 1.  Alan Wake 2
+1.  Ghostwire: Tokyo
+1.  The Elder Scrolls V: Skyrim
 1.  Sleeping Dogs
 1.  Spec Ops: The Line
 1.  Kena Bridge of Spirirts
 1.  Persona 5 Royal
 1.  Max Payne 3
+1.  Kingdom Come: Deliverance
 1.  Judgement
 1.  What Remains of Edith Finch
 1.  The Pathless
@@ -62,10 +65,12 @@
 ### Pixel Graphics
 1.  Octopath Traveler 2
 1.  Chained Echoes
+1.  Impostor Factory
 1.  Live A Live
 1.  Crosscode
 1.  Black Skylands
 1.  Hyper Light Drifter
+1.  Sanabi
 1.  Sea of Stars
 1.  TRIANGLE STRATEGY
 
@@ -108,6 +113,7 @@
 1.  Doki Doki Literature Club
 1.  AI: The Somnium Files
 1.  Zero Escape: The Nonary Games
+1.  Slay the Princess
 
 ### Peripherals:
 1.  Gigabyte GC-WB867D-I PCIe x1 802.11a/b/g/n/ac Wi-Fi Adapter
