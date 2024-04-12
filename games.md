@@ -85,6 +85,7 @@
 1.  It Takes Two
 1.  Castle Crashers
 1.  The Escapists 2
+1.  Streets of Rogue
 1.  Monaco: What's yours is mine
 1.  Unravel Two
 1.  Broforce
