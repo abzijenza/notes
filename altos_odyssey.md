@@ -40,7 +40,7 @@
 1.  Yanagawa Rio
 
 
-### Bluestacks - 91
+### Bluestacks - 94
 -   Kitani Sai:
     1.  Shturaku Aroma / Lost aroma
     1.  Sweet pitfall / Joshi ana
@@ -156,6 +156,9 @@
     1.  Haruko-san no naka / Inside Haruko-san [Minato Fumi]
     1.  M & A [Emua]
     1.  Hohou no Kemono / Lyrical Beast [Hiyoshi Hana]
+    1.  Dare ni mo Ienai / Can't Tell Anyone [Nishizawa Mizuki]
+    1.  Sidejobs Are a No-Go [Titiduki]
+    1.  Woman of Salvation [Titiduki]
 
 ### Multi work
 -   Tachibana Omina:
@@ -174,6 +177,8 @@
 -   Singles:
     1.  Akiko-san to Issho / together with akiko-san [Mitarashi Kousei]
     1.  Imaizumin Chi wa Douyara Gal no Tamariba ni Natteru Rashii [Nori, Gorou]
+    1.  Raunchy Roommates [Satou tomoyuki]
+    1.  Boku Ga Te Ni Ireta Ability / The Ability I Obtained [Kemigawa Mondo]
 
 ### pd - 38
 -   Kitani Sai:
